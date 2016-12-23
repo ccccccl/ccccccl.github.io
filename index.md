@@ -1,3 +1,3 @@
 ccccccl.github.io
 
-Ashes博客
+Ashes
